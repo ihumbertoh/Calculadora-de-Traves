@@ -1,4 +1,4 @@
-# ⚽ Calculadora de Traves - Superbet
+# ⚽ Calculadora de Traves
 
 Uma ferramenta simples e prática para calcular a melhor forma de apostar no mercado **"Total de Chutes na Trave"**, com base nas odds da Superbet.
 
